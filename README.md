@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=its8shubh" alt="its8shubh" /></a> </p>
 <img align = "right" alt = "Coding" width = "400" src = "https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
-- 🌱 I talk about **Cloud** & **Full Stack Web Development**
 
 - 💬 Ask me about **Cloud & AWS**
 
