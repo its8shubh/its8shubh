@@ -1,5 +1,4 @@
 <h1 align="center">Hola 👋, I'm Shubham Sharma</h1>
-<h3 align="center">An MCA graduate from NIT Durgapur!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its8shubh&label=Profile%20views&color=0e75b6&style=flat" alt="its8shubh" /> </p>
 
