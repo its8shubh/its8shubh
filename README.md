@@ -1,4 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/LifeofAGeek/LifeofAGeek/master/gifs/Hi.gif" width="30px"></h2>
+## Hello World!  👋
 
 
 <a href="https://www.linkedin.com/in/its-shubh/">
