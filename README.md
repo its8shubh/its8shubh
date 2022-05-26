@@ -37,6 +37,6 @@ I am an MCA graduate from NIT Durgapur. I look forward to take challenges by exp
 
 <div align="center">
 
-### ❤️Always open to help!❤️
+### ❤️Milestones to be achieved...❤️
 
 </div>
